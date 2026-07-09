@@ -1,5 +1,5 @@
 (function() {
-    const adUrl = 'https://www.effectivecpmnetwork.com/fudu4f2h?key=7fc685e4a6f38a2efc28ff2e61f59ede';
+    const adUrl = 'https://www.effectivecpmnetwork.com/gnhx8jm2z?key=6533bf64f40047e7f68ac88e0963fc86';
     const cookieName = 'pop_status';
     const expireSeconds = 15; // Durasi diubah menjadi 15 detik
 
